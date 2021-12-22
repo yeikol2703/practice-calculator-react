@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Link to check gh pages: https://yeikol2703.github.io/practice-calculator-react/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
